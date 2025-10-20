@@ -1,0 +1,7 @@
+{
+  "private": "true",
+  "name": "renovate-no-lock-bump",
+  "dependencies": {
+    "eslint": "^9.37.0"
+  }
+}
